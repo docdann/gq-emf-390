@@ -12,6 +12,7 @@ By accessing this repository, you agree to the terms and conditions of the discl
 
 Thank you for visiting the GQ EMF-390 GitHub repository!
 
+#Getting Started
 
 It is important to use pyserial, not serial. 
 
@@ -24,6 +25,8 @@ Some of the examples require OpenGL and pygame
 ```bash
 pip install pyserial pygame PyOpenGL PyOpenGL_accelerate
 ```
+
+Currently COM4 is used by default. Replace COM4 with whatever COM Port Number you are using.
 
 [gryo_draw.py](https://github.com/docdann/gq-emf-390/blob/main/gyro/gryo_draw.py)
 ![gyro_draw_ex](https://user-images.githubusercontent.com/92988409/231658573-0ee7c558-a91e-4159-8816-84fb6be4563b.png)
