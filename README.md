@@ -31,6 +31,11 @@ pip install pyserial pygame PyOpenGL PyOpenGL_accelerate
 ![gyro_cube_ex](https://user-images.githubusercontent.com/92988409/231658768-23654308-36da-4f1b-b14f-3a2642e4714a.png)
 [gyro_plot_live.py](https://github.com/docdann/gq-emf-390/blob/main/gyro/gyro_plot_live.py)
 ![gyro_plot_live_ex](https://user-images.githubusercontent.com/92988409/231659352-54161f5e-4012-4abd-a1f8-334c3d1836b4.png)
+[spectrum_live.py](https://github.com/docdann/gq-emf-390/blob/main/spectrum/spectrum_live.py)
+
+![spectrum_live_ex](https://user-images.githubusercontent.com/92988409/231669651-4973698a-a0dc-44e9-8f9f-273730c74621.png)
+
+
 
 <dl>
   <dt><h3>DISCLAIMER:</h3></dt>
