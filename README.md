@@ -19,7 +19,7 @@ It is important to use pyserial, not serial.
 pip install pyserial
 ```
 
-Some of the examples require OpenGL
+Some of the examples require OpenGL and pygame
 
 ```bash
 pip install pyserial pygame PyOpenGL PyOpenGL_accelerate
